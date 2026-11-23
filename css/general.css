@@ -23,6 +23,7 @@
 
   /* others */
   filter: blur(8px);
+  z-index: 0;
 }
 
 main {
